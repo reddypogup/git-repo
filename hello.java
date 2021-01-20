@@ -1,7 +1,7 @@
-class hello
+class hello #from pradeep
 {
-   public static void main
+   public static void main  #from pradeep
    {
-     system.ou,println( hello )
+     system.ou,println( hello from pradeep )
    }
 }
