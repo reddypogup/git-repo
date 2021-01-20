@@ -1,6 +1,6 @@
-class hello
+class hello #from appleadmin
 {
-   public static void main
+   public static void main  #from apple admin
    {
      system.ou,println( hello )
    }
